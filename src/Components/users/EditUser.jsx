@@ -2,7 +2,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { useHistory, useLocation } from "react-router-dom";
 
 import { useState } from "react";
-import { userUpdated } from "./usersSlice";
+import { userUpdated } from "../../reducer/usersSlice";
 
 export function EditUser() {
   const { pathname } = useLocation();

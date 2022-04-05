@@ -2,7 +2,7 @@ import { useDispatch, useSelector } from "react-redux";
 
 import { useHistory } from "react-router-dom";
 import { useState } from "react";
-import { userAdded } from "./usersSlice";
+import { userAdded } from "../../reducer/usersSlice";
 
 export function AddUser() {
   const dispatch = useDispatch();

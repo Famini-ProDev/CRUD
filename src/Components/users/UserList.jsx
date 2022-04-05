@@ -1,4 +1,4 @@
-import { userFilter, userDeleted, fetchUsers } from "./usersSlice";
+import { userFilter, userDeleted, fetchUsers } from "../../reducer/usersSlice";
 import { useDispatch, useSelector } from "react-redux";
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
