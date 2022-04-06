@@ -22,6 +22,14 @@ npm install
 # or
 yarn install
 ```
+then :
+### Compiles and hot-reloads for development
+
+```
+npm start
+# or
+yarn start
+```
 ### About the application:
 
 The purpose of the web application is to list, create, modify, Search and delete.
