@@ -10,4 +10,18 @@ React Redux CRUD Application in that:
 - Programming Language: javaScript
 - FrontEnd Side:
   - React hook Components
-  - Managment application states with : 
+  - Managment application states with : Redux , Redux/toolkit
+  - RestfulApi using async/await requests 
+ 
+## Project setup
+
+In the project directory, you can run:
+
+```
+npm install
+# or
+yarn install
+```
+### About the application:
+
+The purpose of the web application is to list, create, modify, Search and delete.
